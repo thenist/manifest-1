@@ -10,7 +10,7 @@ Evolution X
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Evolution-X/manifest -b snow
+repo init -u https://github.com/CyderVII28x03/manifest -b snow
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
